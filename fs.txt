@@ -1,0 +1,4 @@
+let line=fs.readFileSync("files/story.txt").toString('utf-8');
+
+let stroy = line.split(' ');
+console.log(story);
